@@ -20,7 +20,7 @@ Everything is built from scratch using frontend technologies—no frameworks or 
 
 ## 🌐 Live Demo
 
-Deployed on Vercel: [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+Deployed on Vercel: https://v0-new-project-4ehkdygpugz-mvghcgrfv-phefrys-projects.vercel.app/
 
 ---
 

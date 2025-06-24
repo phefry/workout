@@ -18,6 +18,12 @@ Everything is built from scratch using frontend technologies—no frameworks or 
 
 ---
 
+## 🌐 Live Demo
+
+Deployed on Vercel: [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+
+---
+
 ## 🎨 Color Scheme & Inspiration
 
 The color theme is inspired by **coffee tones** and **book pages**, using warm, earthy shades to evoke a comfortable and relaxing environment.
@@ -73,7 +79,7 @@ These colors were chosen to simulate the experience of being in a rustic café w
 
 ## 📸 Screenshot Preview
 
-![Preview](https://images.pexels.com/photos/15580397/pexels-photo-15580397/free-photo-of-dog-figurine-near-book.jpeg?auto=compress&cs=tinysrgb&w=600)
+![Preview](https://images.pexels.com/photos/29650796/pexels-photo-29650796/free-photo-of-cozy-cafe-table-with-cappuccino-in-istanbul.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load)
 
 ---
 
@@ -89,8 +95,8 @@ These colors were chosen to simulate the experience of being in a rustic café w
 
 Made with ☕ and ✨ by **Phefry Mukuza**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: phefry@example.com *(optional)*
+- GitHub: [@phefry](https://github.com/phefry)
+- Email: mukuzaphefry@gmail.com 
 
 ---
 

@@ -37,8 +37,9 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 2rem 9%;
-    background: rgba(0,0,0,0.7);
-    backdrop-filter: blur(10px);
+    background: rgba(230, 210, 180, 0.92); /* light brown background */
+    box-shadow: 0 4px 24px rgba(166,124,82,0.13), 0 1.5px 8px rgba(166,124,82,0.08);
+    backdrop-filter: blur(8px);
     transition: all 0.3s ease-in-out;
 }
 .logo {
@@ -656,15 +657,17 @@ font-size: large;
     border-radius: 1.5rem;
     background: #fff8f0;
     box-shadow: 0 4px 24px rgba(166,124,82,0.10);
-    padding: 3rem 2.5rem 2.5rem 2.5rem;
-    max-width: 400px;
+    padding: 2.5rem 2rem;
+    max-width: 700px;
     width: 100%;
+    margin: 4rem auto;
+    text-align: center;
 }
 #join-form legend {
-    font-size: 2rem;
-    font-weight: 700;
+    font-size: 2.4rem;
+    font-weight: 800;
     color: #a67c52;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
     letter-spacing: 1px;
 }
 #join-form label {
@@ -673,6 +676,7 @@ font-size: large;
     font-size: 1.3rem;
     color: #3e2723;
     font-weight: 600;
+    text-align: left;
 }
 #join-form input {
     width: 100%;
@@ -711,7 +715,7 @@ font-size: large;
 }
 .faq-content {
     max-width: 700px;
-    margin: 0 auto 4rem auto;
+    margin: 4rem auto;
     padding: 2.5rem 2rem;
     background: #fff8f0;
     border-radius: 1.5rem;

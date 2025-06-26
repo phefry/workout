@@ -18,6 +18,12 @@ Everything is built from scratch using frontend technologies—no frameworks or 
 
 ---
 
+## 🌐 Live Demo
+
+Deployed on Vercel: https://v0-new-project-4ehkdygpugz-mvghcgrfv-phefrys-projects.vercel.app/
+
+---
+
 ## 🎨 Color Scheme & Inspiration
 
 The color theme is inspired by **coffee tones** and **book pages**, using warm, earthy shades to evoke a comfortable and relaxing environment.
@@ -57,7 +63,6 @@ These colors were chosen to simulate the experience of being in a rustic café w
 
 ## 📁 Folder Structure
 
-
 --- 📦 book-coffee-haven/
 ├── index.html
 ├── style.css
@@ -74,7 +79,7 @@ These colors were chosen to simulate the experience of being in a rustic café w
 
 ## 📸 Screenshot Preview
 
-![Preview](https://images.pexels.com/photos/15580397/pexels-photo-15580397/free-photo-of-dog-figurine-near-book.jpeg?auto=compress&cs=tinysrgb&w=600)
+![Preview](https://images.pexels.com/photos/29650796/pexels-photo-29650796/free-photo-of-cozy-cafe-table-with-cappuccino-in-istanbul.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load)
 
 ---
 
@@ -90,8 +95,8 @@ These colors were chosen to simulate the experience of being in a rustic café w
 
 Made with ☕ and ✨ by **Phefry Mukuza**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: phefry@example.com *(optional)*
+- GitHub: [@phefry](https://github.com/phefry)
+- Email: mukuzaphefry@gmail.com 
 
 ---
 
@@ -102,39 +107,4 @@ This project is free to use for educational and personal purposes.
 ---
 
 > _“Books and coffee — the perfect blend of knowledge and warmth.”_
-
----
-
-## 🚀 How to Use
-
-1. Clone or download this repository
-2. Open `index.html` in your browser
-3. Explore the site – it’s fully frontend and works without a server
-
----
-
-## 📸 Screenshot Preview
-
-![Preview](https://images.pexels.com/photos/15580397/pexels-photo-15580397/free-photo-of-dog-figurine-near-book.jpeg?auto=compress&cs=tinysrgb&w=600)
-
----
-
-## 🔗 Credits
-
-- UI icons from [Boxicons](https://boxicons.com/)
-- Typing effect by [Typed.js](https://mattboldt.com/demos/typed-js/)
-- Images sourced from [Pexels](https://pexels.com/)
-
----
-
-## 🙋‍♂️ Author
-
-Made with ☕ and ✨ by **Phefry Mukuza**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: phefry@example.com *(optional)*
-
----
-
-## 📄 License
 
